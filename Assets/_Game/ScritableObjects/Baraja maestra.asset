@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15de77c93c06eb247a50a1702ce08557, type: 3}
+  m_Name: Baraja maestra
+  m_EditorClassIdentifier: 
+  tipo: 2
+  cartas1:
+  - {fileID: 11400000, guid: bc6dd66bd8328ce48b16af7eab3b802c, type: 2}
+  - {fileID: 11400000, guid: 36c0e57ff8174db47aaabe6574daabe2, type: 2}
+  - {fileID: 11400000, guid: 058fad5273b3f7440bfdb34f5a70d63e, type: 2}
+  - {fileID: 11400000, guid: 0004f39ab2f81a345b09eb5f80eb3616, type: 2}
+  cartas2:
+  - {fileID: 11400000, guid: 5aeb067a7974b6f4b82a0bdff9b74793, type: 2}
+  - {fileID: 11400000, guid: 0969e2cf00ffe544aadecc698296a3af, type: 2}
+  - {fileID: 11400000, guid: 9df64a5bd27111f40908d9eca1f228a3, type: 2}
+  - {fileID: 11400000, guid: c2080bd4f85963c4ba743c07714503f3, type: 2}
+  cartas3: []
+  cartas4: []
+  cartas5: []
+  perfiles:
+  - {fileID: 11400000, guid: 54e9a449d56917e4f9be02675ccb22f3, type: 2}
+  - {fileID: 11400000, guid: da6ac706a47665e469b5e7538ffcd19d, type: 2}
+  - {fileID: 11400000, guid: 7b5e5d254b7726142a8a27d862ab0dee, type: 2}
+  - {fileID: 11400000, guid: a8c6fd387b1b57d41ab18858460e29b4, type: 2}
+  - {fileID: 11400000, guid: 7880a48de17b52f46860ac3fb30780f9, type: 2}
+  invocables:
+  - {fileID: 883109063263460169, guid: a0d59d2730918fd4da6862095374b71b, type: 3}
+  - {fileID: 883109063263460169, guid: 9c2e9279da6c2c6418577b40d2b44072, type: 3}
+  - {fileID: 883109063263460169, guid: 596351ffe0fbb2148b2a15f5331cad8e, type: 3}
+  - {fileID: 883109063263460169, guid: b445f98ca80242641a0527bfec85476c, type: 3}
+  - {fileID: 883109063263460169, guid: fa31a6378997e414d81cdfaa0ea9c938, type: 3}
+  - {fileID: 883109063263460169, guid: f6cdec47c80dbb64f8005d7587df6d73, type: 3}
+  - {fileID: 883109063263460169, guid: 103a98fa765eb2f4c88c40ccb81138e8, type: 3}
+  - {fileID: 883109063263460169, guid: d3d5ead98afe88a47a5e688b614f97a6, type: 3}

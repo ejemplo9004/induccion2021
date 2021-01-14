@@ -1,0 +1,13 @@
+---------------- Parametros para crear cartas:
+
+        %bando%
+        %invocable%
+        %bandoCasilla%
+        %nombreCasilla%
+
+---------------- Invocar
+	invocar|[invocable]|[casilla]|[bandoIvocacion]|[bandoIvocador]
+		se usa para invocar cualquier invocable (criatura, artefacto, conjuro, etc)
+	invocar|0|A4|1|1
+
+

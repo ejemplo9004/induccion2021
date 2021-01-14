@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 874e7c82ab2d9c04b8ac0b2d14ae13bf, type: 3}
+  m_Name: Apoyo
+  m_EditorClassIdentifier: 
+  engrane: {fileID: -5875496382371688743, guid: 64b3d85cf2ec5d0499f8792c5cada273,
+    type: 3}
+  anverso: {fileID: -1380234187198910388, guid: 64b3d85cf2ec5d0499f8792c5cada273,
+    type: 3}
+  reverso: {fileID: 6031246667045053630, guid: 64b3d85cf2ec5d0499f8792c5cada273, type: 3}
+  boton: {fileID: -3138360992225088417, guid: 64b3d85cf2ec5d0499f8792c5cada273, type: 3}
+  botonAtras: {fileID: 1357925211855393621, guid: 64b3d85cf2ec5d0499f8792c5cada273,
+    type: 3}
+  icono: {fileID: 718248948285891100, guid: 64b3d85cf2ec5d0499f8792c5cada273, type: 3}
+  adorno: {fileID: 3868519054696010799, guid: 64b3d85cf2ec5d0499f8792c5cada273, type: 3}
+  esfera: {fileID: 1211549775043746418, guid: 64b3d85cf2ec5d0499f8792c5cada273, type: 3}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 874e7c82ab2d9c04b8ac0b2d14ae13bf, type: 3}
+  m_Name: Comunicaciones
+  m_EditorClassIdentifier: 
+  engrane: {fileID: -1058746434959558401, guid: 9ee5fe18202956d428a90cf385d229f3,
+    type: 3}
+  anverso: {fileID: 3842122873755655077, guid: 9ee5fe18202956d428a90cf385d229f3, type: 3}
+  reverso: {fileID: -7280678935907345901, guid: 9ee5fe18202956d428a90cf385d229f3,
+    type: 3}
+  boton: {fileID: -8947107319748714750, guid: 9ee5fe18202956d428a90cf385d229f3, type: 3}
+  botonAtras: {fileID: 2212155692117334456, guid: 9ee5fe18202956d428a90cf385d229f3,
+    type: 3}
+  icono: {fileID: -2876264384783441325, guid: 9ee5fe18202956d428a90cf385d229f3, type: 3}
+  adorno: {fileID: -7496301139144914297, guid: 9ee5fe18202956d428a90cf385d229f3, type: 3}
+  esfera: {fileID: 3410213488384508874, guid: 9ee5fe18202956d428a90cf385d229f3, type: 3}

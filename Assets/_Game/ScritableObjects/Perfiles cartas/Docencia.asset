@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 874e7c82ab2d9c04b8ac0b2d14ae13bf, type: 3}
+  m_Name: Docencia
+  m_EditorClassIdentifier: 
+  engrane: {fileID: -8377903272028833183, guid: 12acc8062b57cf7428dcea4588bd9158,
+    type: 3}
+  anverso: {fileID: -5697764026853744124, guid: 12acc8062b57cf7428dcea4588bd9158,
+    type: 3}
+  reverso: {fileID: 6711841955284904979, guid: 12acc8062b57cf7428dcea4588bd9158, type: 3}
+  boton: {fileID: 6116853417220798598, guid: 12acc8062b57cf7428dcea4588bd9158, type: 3}
+  botonAtras: {fileID: 8877463634545158287, guid: 12acc8062b57cf7428dcea4588bd9158,
+    type: 3}
+  icono: {fileID: -1516703086692595343, guid: 12acc8062b57cf7428dcea4588bd9158, type: 3}
+  adorno: {fileID: -1340631178555110207, guid: 12acc8062b57cf7428dcea4588bd9158, type: 3}
+  esfera: {fileID: 3558482277678105655, guid: 12acc8062b57cf7428dcea4588bd9158, type: 3}

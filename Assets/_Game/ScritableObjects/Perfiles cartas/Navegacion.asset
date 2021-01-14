@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 874e7c82ab2d9c04b8ac0b2d14ae13bf, type: 3}
+  m_Name: Navegacion
+  m_EditorClassIdentifier: 
+  engrane: {fileID: 4724101574257411481, guid: a0e7c756d0c87a449b0a337418a6572d, type: 3}
+  anverso: {fileID: 3571822572124475625, guid: a0e7c756d0c87a449b0a337418a6572d, type: 3}
+  reverso: {fileID: -1994155535141573102, guid: a0e7c756d0c87a449b0a337418a6572d,
+    type: 3}
+  boton: {fileID: -8779174667250677167, guid: a0e7c756d0c87a449b0a337418a6572d, type: 3}
+  botonAtras: {fileID: 6218028504629933684, guid: a0e7c756d0c87a449b0a337418a6572d,
+    type: 3}
+  icono: {fileID: -4772189252004157401, guid: a0e7c756d0c87a449b0a337418a6572d, type: 3}
+  adorno: {fileID: 4957936639243716592, guid: a0e7c756d0c87a449b0a337418a6572d, type: 3}
+  esfera: {fileID: 5420008823579682937, guid: a0e7c756d0c87a449b0a337418a6572d, type: 3}

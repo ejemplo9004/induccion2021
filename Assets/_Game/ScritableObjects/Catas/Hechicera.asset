@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aa9563c5e27bdc4f8b4647d1349d1e0, type: 3}
+  m_Name: Hechicera
+  m_EditorClassIdentifier: 
+  nombre: Hechicera
+  raza: 0
+  descripcion: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac euismod
+    lorem, non suscipit nisl. Phasellus luctus metus tortor, et gravida metus lacinia
+    ac.
+  descripcionInstitucional: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Duis ac euismod lorem, non suscipit nisl. Phasellus luctus metus tortor, et gravida
+    metus lacinia ac.
+  estrellas: 4
+  invocable: 3
+  precio: 15
+  campoUso: 0
+  comando: invocar
+  parametros:
+  - '%invocable%'
+  - '%nombreCasilla%'
+  - '%bandoCasilla%'
+  - '%bando%'
+  foto: {fileID: -3145759599720727448, guid: 1727a66d78e2b3c4f97176b4c3fd3e90, type: 3}
+  perfil: {fileID: 11400000, guid: da6ac706a47665e469b5e7538ffcd19d, type: 2}
