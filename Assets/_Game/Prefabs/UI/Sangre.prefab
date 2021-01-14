@@ -87,6 +87,7 @@ GameObject:
   - component: {fileID: 4842080495644982835}
   - component: {fileID: 9158375839901379628}
   - component: {fileID: 8612721209118688555}
+  - component: {fileID: 8791572293366735267}
   m_Layer: 5
   m_Name: Sangre
   m_TagString: Untagged
@@ -111,7 +112,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -0.041999817, y: -0.35300002}
+  m_AnchoredPosition: {x: -0.041992188, y: -0.35299683}
   m_SizeDelta: {x: 1.210257, y: 1.210257}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!223 &4842080495644982835
@@ -174,3 +175,16 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!114 &8791572293366735267
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4244234846619101474}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d6b9d5cac1c2b942b8c46a6ed807a7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  imSangre: {fileID: 9086110829797935770}
