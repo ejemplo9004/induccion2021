@@ -1,17 +1,19 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Vida : MonoBehaviour
 {
-    public float sangreInicial;
-    public float sangreActual;
+    public float    sangreInicial;
+    public float    sangreActual;
     public Monstruo monstruo;
-    public Torre torre;
-    public bool destruirAlMorir = true;
-    public float tiempoDestruir;
-    public bool vivo = true;
-    public bool imprimir = false;
+    public Torre    torre;
+    public bool     destruirAlMorir = true;
+    public float    tiempoDestruir;
+    public bool     vivo = true;
+    public bool     imprimir = false;
+    public Image    imSangre;
 
     private void Start()
     {
@@ -28,6 +30,15 @@ public class Vida : MonoBehaviour
         {
             Morir();
             vivo = false;
+        }
+        ActualizarGraficos();
+    }
+
+    void ActualizarGraficos()
+    {
+        if (imSangre != null)
+        {
+            imSangre.fillAmount = sangreActual / sangreInicial;
         }
     }
 

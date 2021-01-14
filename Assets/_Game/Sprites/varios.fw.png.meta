@@ -8,6 +8,9 @@ TextureImporter:
   - first:
       213: -5197807832280059435
     second: varios.fw_1
+  - first:
+      213: -6205343362348526209
+    second: varios.fw_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -137,7 +140,7 @@ TextureImporter:
         width: 189
         height: 189
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -158,7 +161,7 @@ TextureImporter:
         width: 272
         height: 279
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -166,6 +169,27 @@ TextureImporter:
       bones: []
       spriteID: 5d13432d05dadd7b0800000000000000
       internalID: -5197807832280059435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios.fw_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 323
+        width: 175
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7553e9d61132e9a0800000000000000
+      internalID: -6205343362348526209
       vertices: []
       indices: 
       edges: []
